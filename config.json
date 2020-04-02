@@ -1,0 +1,36 @@
+{
+  "main": "virtualdojo-room-main",
+  "support": "virtualdojo-room-support",
+  "imgPath": "assets/images/",
+  "date": {
+    "event": "Sabato 4 Aprile 2020",
+    "start": "2020-04-04T15:00:00",
+    "end": "2020-04-04T17:00:00"
+  },
+  "rooms": [
+    {
+      "name": "Blue",
+      "img": "koala.jpg",
+      "jitsi": "virtualdojo-room-1",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Green",
+      "img": "coyote.jpg",
+      "jitsi": "virtualdojo-room-2",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Yellow",
+      "img": "ippo.jpg",
+      "jitsi": "virtualdojo-room-3",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Red",
+      "img": "kakapo.jpg",
+      "jitsi": "virtualdojo-room-4",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    }
+  ]
+}
