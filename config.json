@@ -4,7 +4,7 @@
   "imgPath": "assets/images/",
   "date": {
     "event": "Sabato 4 Aprile 2020",
-    "start": "2020-04-02T15:00:00",
+    "start": "2020-04-04T14:50:00",
     "end": "2020-04-04T17:00:00"
   },
   "rooms": [
@@ -12,67 +12,73 @@
       "name": "Blu",
       "img": "blu.png",
       "jitsi": "virtualdojo-room-blu",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Maddalena Fugnanesi", "Giulio Girolodini", "Daniele Manci"]
     },
     {
       "name": "Verde",
       "img": "verde.png",
       "jitsi": "virtualdojo-room-verde",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Leonardo Fanelli", "Alessandro Felici", "Filippo Anemone"]
     },
     {
       "name": "Giallo",
       "img": "giallo.png",
       "jitsi": "virtualdojo-room-giallo",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Diego Bagnarelli", "Flora Fantozzi", "Samuel Bergamini"]
     },
     {
       "name": "Rosso",
       "img": "rosso.png",
       "jitsi": "virtualdojo-room-rosso",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Andrea Tusillagine", "Jacopo Felici", "Elisabetta Rossi"]
     },
     {
       "name": "Arancione",
       "img": "arancione.png",
       "jitsi": "virtualdojo-room-arancione",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Beatrice Fanelli", "Jacopo Mataloni", "Emanuel Dionisio"]
     },
     {
       "name": "Azzurro",
       "img": "azzurro.png",
       "jitsi": "virtualdojo-room-azzurro",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Fiamma Sborzacchi", "Marta Milan", "Eugenia Breahna"]
     },
     {
       "name": "Bianco",
       "img": "bianco.png",
       "jitsi": "virtualdojo-room-bianco",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Giacono Giovagnoli", "Emma Tognoloni", "Flavio Liquori"]
     },
     {
       "name": "Marrone",
       "img": "marrone.png",
       "jitsi": "virtualdojo-room-marrone",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Mattia Generotti", "Viola Fantozzi", "Gioia Pletz"]
     },
     {
       "name": "Nero",
       "img": "nero.png",
       "jitsi": "virtualdojo-room-nero",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Fratello di Giulio Giroldini", "Elisa Favali", "Gloria Baraldi"]
     },
     {
       "name": "Rosa",
       "img": "rosa.png",
       "jitsi": "virtualdojo-room-rosa",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Elena Bisoli", "Geremia Bardiani", "Chiara Ferretti"]
     },
     {
       "name": "Viola",
       "img": "viola.png",
       "jitsi": "virtualdojo-room-viola",
-      "members": ["Member 1", "Member 2", "Member 3"]
+      "members": ["Giacomo Parasecolo", "Gioele Baldoni", "Beatrice Rossi"]
+    },
+    {
+      "name": "Grigio",
+      "img": "grigio.png",
+      "jitsi": "virtualdojo-room-grigio",
+      "members": ["Francesco Faleschi", "Anna Marchesini", "Paolo Favro"]
     }
   ]
 }
