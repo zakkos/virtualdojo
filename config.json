@@ -9,27 +9,69 @@
   },
   "rooms": [
     {
-      "name": "Blue",
-      "img": "koala.jpg",
-      "jitsi": "virtualdojo-room-1",
+      "name": "Blu",
+      "img": "blu.png",
+      "jitsi": "virtualdojo-room-blu",
       "members": ["Member 1", "Member 2", "Member 3"]
     },
     {
-      "name": "Green",
-      "img": "coyote.jpg",
-      "jitsi": "virtualdojo-room-2",
+      "name": "Verde",
+      "img": "verde.png",
+      "jitsi": "virtualdojo-room-verde",
       "members": ["Member 1", "Member 2", "Member 3"]
     },
     {
-      "name": "Yellow",
-      "img": "ippo.jpg",
-      "jitsi": "virtualdojo-room-3",
+      "name": "Giallo",
+      "img": "giallo.png",
+      "jitsi": "virtualdojo-room-giallo",
       "members": ["Member 1", "Member 2", "Member 3"]
     },
     {
-      "name": "Red",
-      "img": "kakapo.jpg",
-      "jitsi": "virtualdojo-room-4",
+      "name": "Rosso",
+      "img": "rosso.png",
+      "jitsi": "virtualdojo-room-rosso",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Arancione",
+      "img": "arancione.png",
+      "jitsi": "virtualdojo-room-arancione",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Azzurro",
+      "img": "azzurro.png",
+      "jitsi": "virtualdojo-room-azzurro",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Bianco",
+      "img": "bianco.png",
+      "jitsi": "virtualdojo-room-bianco",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Marrone",
+      "img": "marrone.png",
+      "jitsi": "virtualdojo-room-marrone",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Nero",
+      "img": "nero.png",
+      "jitsi": "virtualdojo-room-nero",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Rosa",
+      "img": "rosa.png",
+      "jitsi": "virtualdojo-room-rosa",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "name": "Viola",
+      "img": "viola.png",
+      "jitsi": "virtualdojo-room-viola",
       "members": ["Member 1", "Member 2", "Member 3"]
     }
   ]
