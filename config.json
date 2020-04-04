@@ -60,7 +60,7 @@
       "name": "Nero",
       "img": "nero.png",
       "jitsi": "virtualdojo-room-nero",
-      "members": ["Geremia Giroldini", "Elisa Favali"]
+      "members": ["Geremia Giroldini", "Elisa Favali", "Federico Gulino"]
     },
     {
       "name": "Rosa",
@@ -78,7 +78,7 @@
       "name": "Grigio",
       "img": "grigio.png",
       "jitsi": "virtualdojo-room-grigio",
-      "members": ["Francesco Faleschi", "Anna Marchesini", "Paolo Favro"]
+      "members": ["Francesco Faleschini", "Anna Marchesini", "Paolo Favro"]
     }
   ]
 }
