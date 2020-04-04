@@ -7,7 +7,7 @@ const options = {
   url: "./config.json", // config file
   navTimeout: 1500,
   modal: {
-    before: "Torna più tardi, l'evento inizierà Sabato alle ore 14:55.",
+    before: "Torna più tardi, l'evento inizierà Sabato alle ore 14:50.",
     live: "L'evento è iniziato. Entra nella stanza principale.",
     after: "L'evento è terminato."
   },

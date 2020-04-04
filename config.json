@@ -4,7 +4,7 @@
   "imgPath": "assets/images/",
   "date": {
     "event": "Sabato 4 Aprile 2020",
-    "start": "2020-04-04T10:50:00",
+    "start": "2020-04-04T14:50:00",
     "end": "2020-04-04T17:00:00"
   },
   "rooms": [
@@ -12,7 +12,7 @@
       "name": "Blu",
       "img": "blu.png",
       "jitsi": "virtualdojo-room-blu",
-      "members": ["Maddalena Fugnanesi", "Giulio Girolodini", "Daniele Manci"]
+      "members": ["Maddalena Fugnanesi", "Viola Fantozzi", "Daniele Manci"]
     },
     {
       "name": "Verde",
@@ -24,7 +24,7 @@
       "name": "Giallo",
       "img": "giallo.png",
       "jitsi": "virtualdojo-room-giallo",
-      "members": ["Diego Bagnarelli", "Flora Fantozzi", "Samuel Bergamini"]
+      "members": ["Gioele Baldoni", "Flora Fantozzi", "Samuel Bergamini"]
     },
     {
       "name": "Rosso",
@@ -36,7 +36,7 @@
       "name": "Arancione",
       "img": "arancione.png",
       "jitsi": "virtualdojo-room-arancione",
-      "members": ["Beatrice Fanelli", "Jacopo Mataloni", "Emanuel Dionisio"]
+      "members": ["Beatrice Fanelli", "Diego Bagnarelli", "Jacopo Mataloni", "Emanuel Dionisio"]
     },
     {
       "name": "Azzurro",
@@ -54,13 +54,13 @@
       "name": "Marrone",
       "img": "marrone.png",
       "jitsi": "virtualdojo-room-marrone",
-      "members": ["Mattia Generotti", "Viola Fantozzi", "Gioia Pletz"]
+      "members": ["Mattia Generotti", "Giulio Giroldini", "Gioia Pletz"]
     },
     {
       "name": "Nero",
       "img": "nero.png",
       "jitsi": "virtualdojo-room-nero",
-      "members": ["Fratello di Giulio Giroldini", "Elisa Favali", "Gloria Baraldi"]
+      "members": ["Geremia Giroldini", "Elisa Favali"]
     },
     {
       "name": "Rosa",
@@ -72,7 +72,7 @@
       "name": "Viola",
       "img": "viola.png",
       "jitsi": "virtualdojo-room-viola",
-      "members": ["Giacomo Parasecolo", "Gioele Baldoni", "Beatrice Rossi"]
+      "members": ["Giacomo Parasecolo", "Gloria Baraldi", "Beatrice Rossi"]
     },
     {
       "name": "Grigio",
