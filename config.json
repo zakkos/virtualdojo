@@ -1,84 +1,48 @@
 {
-  "main": "virtualdojo-room-main",
-  "support": "virtualdojo-room-support",
+  "main": "futuro-cinema2",
+  "support": "",
   "imgPath": "assets/images/",
   "date": {
-    "event": "Sabato 4 Aprile 2020",
+    "event": "Giovedì 23 Aprile 2020",
     "start": "2020-04-04T14:50:00",
     "end": "2021-04-04T18:00:00"
   },
   "rooms": [
     {
-      "name": "Blu",
+      "name": "Produttori",
       "img": "blu.png",
-      "jitsi": "virtualdojo-room-blu",
-      "members": ["Maddalena Fugnanesi", "Viola Fantozzi", "Daniele Manci"]
+      "jitsi": "futuro-room-produttori1",
+      "members": [""]
     },
     {
-      "name": "Verde",
+      "name": "Produttori",
       "img": "verde.png",
-      "jitsi": "virtualdojo-room-verde",
-      "members": ["Leonardo Fanelli", "Alessandro Felici", "Filippo Anemone"]
+      "jitsi": "futuro-room-produttori2",
+      "members": [""]
     },
     {
-      "name": "Giallo",
+      "name": "Sceneggiatori",
       "img": "giallo.png",
-      "jitsi": "virtualdojo-room-giallo",
-      "members": ["Gioele Baldoni", "Flora Fantozzi", "Samuel Bergamini"]
+      "jitsi": "futuro-room-sceneggiatori",
+      "members": [""]
     },
     {
-      "name": "Rosso",
+      "name": "Distributori&Sales",
       "img": "rosso.png",
-      "jitsi": "virtualdojo-room-rosso",
-      "members": ["Andrea Tusillagine", "Jacopo Felici", "Elisabetta Rossi"]
+      "jitsi": "futuro-room-distributori",
+      "members": [""]
     },
     {
-      "name": "Arancione",
+      "name": "Maestranze",
       "img": "arancione.png",
-      "jitsi": "virtualdojo-room-arancione",
-      "members": ["Beatrice Fanelli", "Diego Bagnarelli", "Jacopo Mataloni", "Emanuel Dionisio"]
+      "jitsi": "futuro-room-maestranze",
+      "members": [""]
     },
     {
-      "name": "Azzurro",
+      "name": "Festival",
       "img": "azzurro.png",
-      "jitsi": "virtualdojo-room-azzurro",
-      "members": ["Fiamma Sborzacchi", "Marta Milan", "Eugenia Breahna"]
-    },
-    {
-      "name": "Bianco",
-      "img": "bianco.png",
-      "jitsi": "virtualdojo-room-bianco",
-      "members": ["Giacono Giovagnoli", "Emma Tognoloni", "Flavio Liquori"]
-    },
-    {
-      "name": "Marrone",
-      "img": "marrone.png",
-      "jitsi": "virtualdojo-room-marrone",
-      "members": ["Mattia Generotti", "Giulio Giroldini", "Gioia Pletz"]
-    },
-    {
-      "name": "Nero",
-      "img": "nero.png",
-      "jitsi": "virtualdojo-room-nero",
-      "members": ["Geremia Giroldini", "Elisa Favali", "Federico Gulino"]
-    },
-    {
-      "name": "Rosa",
-      "img": "rosa.png",
-      "jitsi": "virtualdojo-room-rosa",
-      "members": ["Elena Bisoli", "Geremia Bardiani", "Chiara Ferretti"]
-    },
-    {
-      "name": "Viola",
-      "img": "viola.png",
-      "jitsi": "virtualdojo-room-viola",
-      "members": ["Giacomo Parasecolo", "Gloria Baraldi", "Beatrice Rossi"]
-    },
-    {
-      "name": "Grigio",
-      "img": "grigio.png",
-      "jitsi": "virtualdojo-room-grigio",
-      "members": ["Francesco Faleschini", "Anna Marchesini", "Paolo Favro"]
+      "jitsi": "futuro-room-festival",
+      "members": [""]
     }
   ]
 }
