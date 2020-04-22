@@ -1,5 +1,5 @@
 {
-  "main": "futuro-cinema2",
+  "main": "futurodelcinema2",
   "support": "",
   "imgPath": "assets/images/",
   "date": {
@@ -9,38 +9,38 @@
   },
   "rooms": [
     {
-      "name": "Produttori",
-      "img": "blu.png",
+      "name": "Prod#1",
+      "img": "bg.jpg",
       "jitsi": "futuro-room-produttori1",
       "members": [""]
     },
     {
-      "name": "Produttori",
-      "img": "verde.png",
+      "name": "Prod#2",
+      "img": "bg.jpg",
       "jitsi": "futuro-room-produttori2",
       "members": [""]
     },
     {
       "name": "Sceneggiatori",
-      "img": "giallo.png",
+      "img": "bg.jpg",
       "jitsi": "futuro-room-sceneggiatori",
       "members": [""]
     },
     {
-      "name": "Distributori&Sales",
-      "img": "rosso.png",
+      "name": "Esercenti",
+      "img": "bg.jpg",
       "jitsi": "futuro-room-distributori",
       "members": [""]
     },
     {
       "name": "Maestranze",
-      "img": "arancione.png",
+      "img": "bg.jpg",
       "jitsi": "futuro-room-maestranze",
       "members": [""]
     },
     {
       "name": "Festival",
-      "img": "azzurro.png",
+      "img": "bg.jpg",
       "jitsi": "futuro-room-festival",
       "members": [""]
     }
