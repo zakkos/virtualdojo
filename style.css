@@ -218,4 +218,8 @@ body {
     33% {top: 0px;}
   100% {top: 0px;}
   }
+
+  .mode-light{
+    color: #EFF;
+  }
 }
