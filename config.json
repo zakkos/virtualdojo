@@ -1,47 +1,83 @@
 {
-  "main": "futurodelcinema2",
-  "support": "",
+  "main": "futuroscuola",
+  "support": "davverohadettocosi",
   "imgPath": "assets/images/",
   "date": {
-    "event": "Giovedì 23 Aprile 2020",
+    "event": "19 Giugno 2020",
     "start": "2020-04-04T14:50:00",
     "end": "2021-04-04T18:00:00"
   },
   "rooms": [
     {
-      "name": "Prod#1",
+      "name": "Futuro#0",
       "img": "bg.jpg",
-      "jitsi": "futuro-room-produttori1",
+      "jitsi": "futuro-room-scuola0",
       "members": [""]
     },
     {
-      "name": "Prod#2",
+      "name": "Futuro#1",
       "img": "bg.jpg",
-      "jitsi": "futuro-room-produttori2",
+      "jitsi": "futuro-room-scuola1",
       "members": [""]
     },
     {
-      "name": "Scrittori",
+      "name": "Futuro#2",
       "img": "bg.jpg",
-      "jitsi": "futuro-room-sceneggiatori",
+      "jitsi": "futuro-room-scuola2",
       "members": [""]
     },
     {
-      "name": "Esercenti",
+      "name": "Futuro#3",
       "img": "bg.jpg",
-      "jitsi": "futuro-room-distributori",
+      "jitsi": "futuro-room-scuola3",
       "members": [""]
     },
     {
-      "name": "Maestranze",
+      "name": "Futuro#4",
       "img": "bg.jpg",
-      "jitsi": "futuro-room-maestranze",
+      "jitsi": "futuro-room-scuola4",
       "members": [""]
     },
     {
-      "name": "Festival",
+      "name": "Futuro#5",
       "img": "bg.jpg",
-      "jitsi": "futuro-room-festival",
+      "jitsi": "futuro-room-scuola5",
+      "members": [""]
+    },
+    {
+      "name": "Futuro#6",
+      "img": "bg.jpg",
+      "jitsi": "futuro-room-scuola6",
+      "members": [""]
+    },
+    {
+      "name": "Futuro#7",
+      "img": "bg.jpg",
+      "jitsi": "futuro-room-scuola7",
+      "members": [""]
+    },
+    {
+      "name": "Futuro#8",
+      "img": "bg.jpg",
+      "jitsi": "futuro-room-scuola8",
+      "members": [""]
+    },
+    {
+      "name": "Futuro#9",
+      "img": "bg.jpg",
+      "jitsi": "futuro-room-scuola9",
+      "members": [""]
+    },
+    {
+      "name": "Futuro#10",
+      "img": "bg.jpg",
+      "jitsi": "futuro-room-scuola10",
+      "members": [""]
+    },
+    {
+      "name": "Futuro#11",
+      "img": "bg.jpg",
+      "jitsi": "futuro-room-scuola11",
       "members": [""]
     }
   ]
